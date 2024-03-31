@@ -11,6 +11,6 @@ The **CSS to CSS Module Transform** extension is a powerful tool designed to str
 ## How to Use
 1. Install the extension from the Visual Studio Code Marketplace: [CSS to CSS Module Transform](https://marketplace.visualstudio.com/items?itemName=Groww.css-to-css-module-transform).
 2. Open a regular jsx/tsx file within your project.
-3. Right-click within the editor or use the provided command `Ctrl+Shift+P` and select `Transforms css jsx/tsx files classes to css module syntax` to initiate the CSS Module conversion process.
+3. Right-click within the editor or use the provided command `Ctrl+S` to initiate the CSS Module conversion process.
 5. Once the transformation is complete, your CSS file will be converted into a CSS Module, with scoped styles ready for use.
 
